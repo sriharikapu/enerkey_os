@@ -1,0 +1,53 @@
+@user/bin/python /home/pi/workspace/hive_os/volttron/hive_lib/broadlink/server.py
+
+
+  198  volttron-ctl status
+  199  volttron-ctl enable --tag Inwalllighting
+  200  volttron-ctl enable --tag liveingroom
+  201  volttron-ctl enable --tag livingroom
+  202  volttron-ctl enable --tag mqtt
+  203  volttron-ctl enable --tag openclose
+  204  pwd
+  205  cd workspace/hive_os/
+  206  pwd
+  207  cp scripts/admin/volttron.service /etc/systemd/system/
+  208  cd volttron/
+  209  cp scripts/admin/volttron.service /etc/systemd/system/
+  210  ls
+  211  cd scripts/
+  212  cp scripts/admin/volttron.service /etc/systemd/system/
+  213  cp ~/workspace/hive_os/volttron/scripts/admin/volttron.service /etc/systemd/sys
+  214  cp ~/workspace/hive_os/volttron/scripts/admin/volttron.service /etc/systemd/system
+  215  sudo cp ~/workspace/hive_os/volttron/scripts/admin/volttron.service /etc/systemd/system
+  216  chmod 777 /etc/systemd/system/volttron.service
+  217  sudo chmod 777 /etc/systemd/system/volttron.service
+  218  cd
+  219  cd /etc/systemd/system/
+  220  ls
+  221  systemctl daemon-reload
+  222  systemctl start volttron.service
+  223  sudo reboot
+  224  cd workspace/
+  225  cd hive_os/
+  226  cd volttron/
+  227  . env/bin/activate
+  228  volttron -vv
+  229  cd workspace/hive_os/volttron/
+
+
+sudo cp ~/workspace/enerkey_os/volttron/scripts/admin/volttron.service /etc/systemd/system
+  216  chmod 777 /etc/systemd/system/volttron.service
+  217  sudo chmod 777 /etc/systemd/system/volttron.service
+  218  cd
+  219  cd /etc/systemd/system/
+  220  ls
+  221  systemctl daemon-reload
+  222  systemctl start volttron.service
+  223  sudo reboot
+  224  cd workspace/
+  225  cd hive_os/
+  226  cd volttron/
+  227  . env/bin/activate
+  228  volttron -vv
+  229  cd workspace/hive_os/volttron/
+
