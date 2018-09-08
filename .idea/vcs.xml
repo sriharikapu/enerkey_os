@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/c-utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/c-utility/testtools/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/c-utility/testtools/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/c-utility/testtools/umock-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/c-utility/testtools/umock-c/deps/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/c-utility/testtools/umock-c/deps/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/parson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp/deps/c-utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp/deps/c-utility/testtools/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp/deps/c-utility/testtools/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp/deps/c-utility/testtools/umock-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp/deps/c-utility/testtools/umock-c/deps/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/deps/uhttp/deps/c-utility/testtools/umock-c/deps/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/RIoT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm/deps/c-utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm/deps/c-utility/testtools/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm/deps/c-utility/testtools/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm/deps/c-utility/testtools/umock-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm/deps/c-utility/testtools/umock-c/deps/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/provisioning_client/deps/utpm/deps/c-utility/testtools/umock-c/deps/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-shared-utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-shared-utility/testtools/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-shared-utility/testtools/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-shared-utility/testtools/umock-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-shared-utility/testtools/umock-c/deps/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-shared-utility/testtools/umock-c/deps/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-c-testrunnerswitcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/azure-ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/umock-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/umock-c/deps/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/uamqp/deps/umock-c/deps/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt/deps/c-utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt/deps/c-utility/testtools/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt/deps/c-utility/testtools/testrunner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt/deps/c-utility/testtools/umock-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt/deps/c-utility/testtools/umock-c/deps/ctest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/c/umqtt/deps/c-utility/testtools/umock-c/deps/testrunner" vcs="Git" />
+  </component>
+</project>

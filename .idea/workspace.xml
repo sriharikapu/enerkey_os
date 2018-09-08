@@ -6,11 +6,9 @@
       <change afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/device/samples/SimulatedDevice.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/device/samples/dmpatterns_getstarted_device.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/device/samples/dmpatterns_getstarted_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/Agents/01DAI_ACAgent/ac/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/Agents/01DAI_ACAgent/ac/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1agent.launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1agent.launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volttron/DeviceAPI/classAPI/classAPI_FanG.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/DeviceAPI/classAPI/classAPI_FanG.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/.gitattributes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/.github/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/.github/CONTRIBUTING.md" afterDir="false" />
@@ -6342,579 +6340,7 @@
       <change beforePath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/service/tests/iothub_service_client_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/service/tests/iothub_service_client_e2e.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/service/tests/iothub_service_client_map_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/service/tests/iothub_service_client_map_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/thirdpartynotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/azure-iot-sdk-python/thirdpartynotice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/_server.py.swp" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/_server.py.swp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/server.py.save" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/server.py.save" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/settings.ini.bak" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/settings.ini.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/settings_bedroom.ini" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/settings_bedroom.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/broadlink/settings_living_rooms.ini" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/broadlink/settings_living_rooms.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/platform/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/platform/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/test_zmq.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/test_zmq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/test_zmqsub.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/test_zmqsub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/log1" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/log1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/optional_requirements.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/optional_requirements.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/pylintrc" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/pylintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/admin/volttron.service" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/admin/volttron.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/bacnet/BACpypes.ini" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/bacnet/BACpypes.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/bacnet/bacnet_scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/bacnet/bacnet_scan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/bacnet/grab_bacnet_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/bacnet/grab_bacnet_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/bacnet/grab_multiple_configs.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/bacnet/grab_multiple_configs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/bacnet/proxy_bacnet_scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/bacnet/proxy_bacnet_scan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/bacnet/proxy_grab_bacnet_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/bacnet/proxy_grab_bacnet_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/core/make-mongo-historian.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/core/make-mongo-historian.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/core/make-sqlite-historian.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/core/make-sqlite-historian.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/platform-config1" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/platform-config1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/platform-config2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/platform-config2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/prepare.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/prepare.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/run-demo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/run-demo.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/start-platforms.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/start-platforms.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/stop-platforms.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/stop-platforms.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/vars.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/vars.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/demo-comms/volttron-central-config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/demo-comms/volttron-central-config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/extract_config_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/extract_config_store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/get_versions.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/get_versions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/historian-scripts/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/historian-scripts/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/historian-scripts/default_mongodb.conf" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/historian-scripts/default_mongodb.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/historian-scripts/update_sqlite_historian_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/historian-scripts/update_sqlite_historian_database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/install_master_driver_configs.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/install_master_driver_configs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/instance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/pycharm-launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/pycharm-launch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/pydev-launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/pydev-launch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/register_platform.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/register_platform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/null_historian/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/null_historian/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/null_historian/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/null_historian/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/agents/NullHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/device-configs/bacnet_lab.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/device-configs/bacnet_lab.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/device-configs/catalyst371.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/device-configs/catalyst371.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fabfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fabfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake18.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake48.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake48.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake_unit_testing.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake_unit_testing.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake_unit_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/fake_unit_testing.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/test_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/test_settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/bacnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/bacnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/modbus.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/modbus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/shutdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/shutdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/scalability-testing/virtual-drivers/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/tagging_scripts/insert_id_and_ref_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/tagging_scripts/insert_id_and_ref_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/update_curve_key.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/update_curve_key.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/scripts/update_master_driver_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/scripts/update_master_driver_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/Test/kafka_consumer.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/Test/kafka_consumer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/Test/kafka_producer.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/Test/kafka_producer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/Test/message.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/Test/message.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/how_to_start_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/more_details_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/more_details_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/overview_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/overview_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/overview_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/KafkaAgent/img/overview_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/docs/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/docs/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/prometheus_scrape/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/prometheus_scrape/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/prometheus_scrape/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/prometheus_scrape/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/PrometheusScrapeAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/WeatherAgent.launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/WeatherAgent.launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/execreqs.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/execreqs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/weather/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/weather/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/weather/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/contrib/WeatherAgent/weather/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator-deploy.service" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator-deploy.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator/scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/actuator/scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator-no-lock.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator-no-lock.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator-tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator-tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator2.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/actuator2.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/test_actuator_pubsub.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/test_actuator_pubsub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/test_actuator_rpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/test_actuator_rpc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/test_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ActuatorAgent/tests/test_scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/bacnet-proxy.agent" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/bacnet-proxy.agent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/bacnet_proxy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/bacnet_proxy/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/bacnet_proxy/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/bacnet_proxy/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/BACnetProxy/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/cratedb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/cratedb/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/cratedb/historian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/cratedb/historian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/crate_config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/crate_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/drop_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/drop_tables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/mongo_config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/mongo_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/mongo_to_crate.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/scripts/mongo_to_crate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/tests/test_crate_historian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/CrateHistorian/tests/test_crate_historian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/DataMover/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/DataMover/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/DataMover/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/DataMover/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/DataMover/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/DataMover/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/DataMover/datamover/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/DataMover/datamover/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/DataMover/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/DataMover/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/DataMover/tests/test_datamover.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/DataMover/tests/test_datamover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ExternalData/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ExternalData/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ExternalData/external_data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ExternalData/external_data/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ExternalData/external_data/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ExternalData/external_data/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ExternalData/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ExternalData/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/forwarder/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/forwarder/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/tests/test_forward_historian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/tests/test_forward_historian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/tests/test_forwarder_reconnections.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/tests/test_forwarder_reconnections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/tests/test_forwardhistorian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/ForwardHistorian/tests/test_forwardhistorian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/mqtt_historian/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/mqtt_historian/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/mqttlistener.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/mqttlistener.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MQTTHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/director.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/director.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market_participant.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market_participant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/market_state.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/offer_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/offer_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/reservation_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/market_service/reservation_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/test_market.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/test_market.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/test_market_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/test_market_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/test_offer.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MarketServiceAgent/tests/test_offer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/example.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/example.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/fake-register.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/fake-register.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/fake.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/fake.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/sep2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/sep2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_bacnet1.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_bacnet1.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_bacnet2.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_bacnet2.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_eagle.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_eagle.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_emu2.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_emu2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_fake.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_fake.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_fakedriver.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_fakedriver.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_hvac_1.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_hvac_1.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_modbus1.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_modbus1.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_rainforesteagle.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_rainforesteagle.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_rainforestemu2.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_rainforestemu2.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_sep2_1.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_sep2_1.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_sep2_2.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/test_sep2_2.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/thermostat_points.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/example_configurations/thermostat_points.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/fake-master-driver.agent" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/fake-master-driver.agent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master-driver.agent" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master-driver.agent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/driver_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/driver_exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/driver_locks.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/driver_locks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/bacnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/bacnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/async_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/async_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/credential_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/credential_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/install-test-agent.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/install-test-agent.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/testagent.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/testagent.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/tester/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/tester/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/tester/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/TestAgent/tester/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/test_chargepoint_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/chargepoint/tests/test_chargepoint_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/fakedriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/fakedriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/config_cmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/config_cmd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion6200.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion6200.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion6200.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion6200.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion6200_map.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion6200_map.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion8600.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion8600.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion8600_map.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/ion8600_map.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/maps.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/maps.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/modbus_tk_test.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/modbus_tk_test.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/modbus_tk_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/modbus_tk_test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/modbus_tk_test_map.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/modbus_tk_test_map.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/watts_on.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/watts_on.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/watts_on.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/watts_on.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/watts_on_map.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/watts_on_map.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/write_single_registers.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/write_single_registers.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/write_single_registers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/write_single_registers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/write_single_registers_map.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/maps/write_single_registers_map.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/fake.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/fake.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/fake.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/fake.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/modbus_test.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/modbus_test.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/modbus_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/modbus_test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on_1.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on_1.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on_2.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on_2.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on_map.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/example_config/watts_on_map.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/modbus_listener_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/modbus_listener_agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/modbus_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/modbus_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_ion6200.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_ion6200.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_mixed_endian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_mixed_endian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_modbus_tk_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_modbus_tk_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_scrape_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_scrape_all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_watts_on.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_watts_on.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_write_single_registers.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/modbus_tk/tests/test_write_single_registers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/radiothermostat.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/radiothermostat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/rainforesteagle.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/rainforesteagle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/rainforestemu2.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/rainforestemu2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/restful.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/restful.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/sep2.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/sep2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/thermostat_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/thermostat_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/universal.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/master_driver/interfaces/universal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/restful.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/restful.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_device_groups.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_device_groups.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_eagle.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_eagle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_global_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_global_override.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_global_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_global_settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_modbus_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_modbus_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_rest_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_rest_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_revert_mixin.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MasterDriverAgent/tests/test_revert_mixin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/aggregator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/aggregator/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/aggregator/aggregator.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/aggregator/aggregator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbAggregateHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/mongodb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/mongodb/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/mongodb/historian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/mongodb/historian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/scripts/count_data_by_topic_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/scripts/count_data_by_topic_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/scripts/rollup_data_by_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/scripts/rollup_data_by_time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/scripts/rollup_data_using_groupby.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/scripts/rollup_data_using_groupby.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/fixtures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/mongod.conf" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/mongod.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/test_mongo_with_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/test_mongo_with_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/test_mongohistorian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/test_mongohistorian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/test_prod_query_mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbHistorian/tests/test_prod_query_mongo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/mongodb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/mongodb/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/mongodb/tagging.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/mongodb/tagging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/scripts/insert_test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/scripts/insert_test_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/MongodbTaggingService/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis.historian.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis.historian.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis/historian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis/historian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/openeis/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/OpenEISHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/end_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/end_device.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/xsd_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/sep2/xsd_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/sep2drivertest.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/sep2drivertest.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/test_agent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/test_agent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/test_agent/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/SEP2DriverTestAgent/test_agent/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.dera.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.dera.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.dercap.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.dercap.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.derg.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.derg.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.ders.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/der.ders.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/edev.di.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/edev.di.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/edev.dstat.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/edev.dstat.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/edev.ps.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/edev.ps.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/mup.mmr.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/mup.mmr.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/mup.mup.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/mup.mup.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/mup.mup2.PUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/mup.mup2.PUT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/test_sep2_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/test_sep2_agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/test_sep2_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SEP2Agent/tests/test_sep2_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/sqlaggregator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/sqlaggregator/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/sqlaggregator/aggregator.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLAggregateHistorian/sqlaggregator/aggregator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/config.mysql" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/config.mysql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/config.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/config.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/mysql-create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/mysql-create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/mysql-create_before_5.6.4.sql" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/mysql-create_before_5.6.4.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/mysql-drop.sql" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/mysql-drop.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlhistorian/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlhistorian/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlhistorian/historian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlhistorian/historian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlhistorian/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlhistorian/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlite-create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlite-create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlite-historian.agent" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/sqlite-historian.agent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/tests/test_sqlitehistorian.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLHistorian/tests/test_sqlitehistorian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/sqlite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/sqlite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/sqlite/tagging.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/SQLiteTaggingService/sqlite/tagging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/MANIFEST.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/rpc_test_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/rpc_test_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/service-docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/service-docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_platforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_platforms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_vc.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_vc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_vc_discovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_vc_discovery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_webapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/test_webapi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/vctestutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/tests/vctestutils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/montserrat-bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/montserrat-bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/montserrat-bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/montserrat-bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans-bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans-bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans-bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans-bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans.woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/fonts/opensans.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/README" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/column-mover-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/column-mover-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/console-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/console-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/control-button-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/control-button-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/devices-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/devices-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/modal-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/modal-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platform-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platform-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platform-chart-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platform-chart-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platform-manager-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platform-manager-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platforms-panel-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/platforms-panel-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/status-indicator-action-creators.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/action-creators/status-indicator-action-creators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/app.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/agent-row.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/agent-row.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/base-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/base-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/check-box.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/check-box.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/column-mover.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/column-mover.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/composer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/composer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/config-device-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/config-device-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/configure-devices.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/configure-devices.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/configure-registry.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/configure-registry.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/confirm-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/confirm-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/console.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/console.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/edit-columns-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/edit-columns-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/edit-select-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/edit-select-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/file-export-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/file-export-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/file-select-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/file-select-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/file-upload-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/file-upload-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/filter-points-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/filter-points-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/keyboard-help-button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/control_buttons/keyboard-help-button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/conversation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/conversation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/dashboard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/deregister-platform-confirmation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/deregister-platform-confirmation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/devices-found.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/devices-found.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/edit-point-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/edit-point-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/exchange.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/exchange.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/filter-box.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/filter-box.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/login-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/login-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/modal.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/navigation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/new-chart-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/new-chart-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/new-column-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/new-column-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/page-not-found.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/page-not-found.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform-chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform-chart.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform-charts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform-charts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform-manager.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform-manager.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platform.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platforms-panel-item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platforms-panel-item.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platforms-panel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platforms-panel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platforms.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/platforms.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/preview-registry-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/preview-registry-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/preview-registry-table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/preview-registry-table.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/reconfigure-device.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/reconfigure-device.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/register-platform-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/register-platform-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/registry-files-selector.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/registry-files-selector.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/registry-row.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/registry-row.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/remove-agent-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/remove-agent-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/status-indicator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/components/status-indicator.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/constants/action-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/constants/action-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/dispatcher/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/dispatcher/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/csvparse/csvparse.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/csvparse/csvparse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/csvparse/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/csvparse/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/rpc/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/rpc/error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/rpc/exchange.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/rpc/exchange.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/rpc/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/rpc/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/wspubsub/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/wspubsub/error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/wspubsub/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/wspubsub/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/wspubsub/wspubsub.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/wspubsub/wspubsub.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/xhr/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/xhr/error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/xhr/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/xhr/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/xhr/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/lib/xhr/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/authorization-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/authorization-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/column-mover-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/column-mover-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/console-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/console-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/control-button-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/control-button-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/devices-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/devices-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/modal-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/modal-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platform-chart-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platform-chart-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platforms-panel-items-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platforms-panel-items-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platforms-panel-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platforms-panel-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platforms-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/platforms-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/status-indicator-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/ui-src/js/stores/status-indicator-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/authenticate.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/authenticate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/platforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/platforms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/sessions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/api-tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/api-tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/api-tests2.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/api-tests2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/css/app-87107f474a23c16ddb1a.css" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/css/app-87107f474a23c16ddb1a.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-eot" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-svg" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-ttf" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-woff2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/fontawesome-webfont-woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/montserrat-bold-woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/montserrat-bold-woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-bold-woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-bold-woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-bold-woff2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-bold-woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-woff" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-woff2" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/fonts/opensans-woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/jqxdraw.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/jqxdraw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/js/app-87107f474a23c16ddb1a.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/js/app-87107f474a23c16ddb1a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/new-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/new-register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/register-platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/register-platforms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/remove-agent.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/remove-agent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/websocket-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/volttroncentral/webroot/vc/websocket-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentral/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/tests/rpc_bacnet_through_vcp.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/tests/rpc_bacnet_through_vcp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/tests/test_platform_agent_rpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/tests/test_platform_agent_rpc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/tests/test_platformagent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/tests/test_platformagent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/vcplatform/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/vcplatform/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/vcplatform/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/vcplatform/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/vcplatform/vcconnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/VolttronCentralPlatform/vcplatform/vcconnection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weather/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weather/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weather/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weather/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weather/weatheragent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weather/weatheragent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weatheragent.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weatheragent.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weathertest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/core/WeatherAgent/weathertest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/tests/test_agent_watcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/tests/test_agent_watcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/watcher/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/watcher/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/watcher/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AgentWatcher/watcher/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/alerter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/alerter/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/alerter/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/alerter/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/tests/test_alert_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/AlertAgent/tests/test_alert_agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/emailer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/emailer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/emailer/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/emailer/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/tests/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/EmailerAgent/tests/send_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/failover/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/failover/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/failover/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/failover/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/tests/test_failover.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/tests/test_failover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/tests/test_simple_failover.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FailoverAgent/tests/test_simple_failover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/filewatchpublisher.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/filewatchpublisher.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/filewatchpublisher/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/filewatchpublisher/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/filewatchpublisher/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/filewatchpublisher/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/FileWatchPublisher/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/logstatisticsagent.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/logstatisticsagent.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/logstatisticsagent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/logstatisticsagent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/logstatisticsagent/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/logstatisticsagent/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/LogStatisticsAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messagedebugger.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messagedebugger.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messagedebugger/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messagedebugger/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messagedebugger/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messagedebugger/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messageviewer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messageviewer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messageviewer/viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/messageviewer/viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/tests/sqlalchemy_dry_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/tests/sqlalchemy_dry_run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/tests/test_message_debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/MessageDebuggerAgent/tests/test_message_debugging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/sysmon/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/sysmon/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/sysmon/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/sysmon/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/sysmonagent.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/sysmonagent.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/tests/test_sysmonagent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/SysMonAgent/tests/test_sysmonagent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/tests/test_thresholddetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/tests/test_thresholddetection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/thresholddetection.config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/thresholddetection.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/thresholddetection/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/thresholddetection/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/thresholddetection/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/services/ops/ThresholdDetectionAgent/thresholddetection/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/startupcode" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/startupcode" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/sudo" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/sudo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/agent_templates/common/agent.py_" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/agent_templates/common/agent.py_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/agent_templates/common/config" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/agent_templates/common/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/agent_templates/setup.py_" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/agent_templates/setup.py_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/categories.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/category_tags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/category_tags.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/tag_refs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/tag_refs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/tags.csv" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/tags.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/units.txt" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/volttron_data/tagging_resources/units.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volttron/hive_lib/buildAgentsG1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/volttron/hive_lib/buildAgentsG1.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -6923,41 +6349,90 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/enerkey_os$volttron.coverage" NAME="volttron Coverage Results" MODIFIED="1536394479079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/enerkey_os$volttron.coverage" NAME="volttron Coverage Results" MODIFIED="1536397662435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
     <SUITE FILE_PATH="coverage/enerkey_os$settings.coverage" NAME="settings Coverage Results" MODIFIED="1536394672362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron" />
-    <SUITE FILE_PATH="coverage/enerkey_os$server.coverage" NAME="server Coverage Results" MODIFIED="1536383246684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/hive_lib/broadlink" />
-    <SUITE FILE_PATH="coverage/enerkey_os$mqtt.coverage" NAME="mqtt Coverage Results" MODIFIED="1536394802883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/" />
-    <SUITE FILE_PATH="coverage/enerkey_os$fanagent.coverage" NAME="fanagent Coverage Results" MODIFIED="1536394798510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/" />
+    <SUITE FILE_PATH="coverage/enerkey_os$mqtt.coverage" NAME="mqtt Coverage Results" MODIFIED="1536397836130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/enerkey_os$server.coverage" NAME="server Coverage Results" MODIFIED="1536398461027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/hive_lib/broadlink" />
+    <SUITE FILE_PATH="coverage/enerkey_os$classAPI_FanG.coverage" NAME="classAPI_FanG Coverage Results" MODIFIED="1536399018464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/DeviceAPI/classAPI" />
+    <SUITE FILE_PATH="coverage/enerkey_os$aicontrolagent.coverage" NAME="aicontrolagent Coverage Results" MODIFIED="1536399427985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/" />
+    <SUITE FILE_PATH="coverage/enerkey_os$fanagent.coverage" NAME="fanagent Coverage Results" MODIFIED="1536399024643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/volttron/" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-885128061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="ini" value="1" />
+          <entry key="py" value="8" />
+          <entry key="sh" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Ini" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="240" />
+          <entry key="sh" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="240" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/volttron/env/local/lib/python2.7/site-packages/pkg_resources/__init__.py">
+        <entry file="file://$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="2338" column="78" selection-start-line="2338" selection-start-column="78" selection-end-line="2338" selection-end-column="78" />
+            <state relative-caret-position="278">
+              <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+              <folding>
+                <marker date="1536399502894" expanded="true" signature="5605:5640" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/volttron/hive_lib/buildAgentsG1.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volttron/DeviceAPI/classAPI/classAPI_FanG.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="139" column="46" lean-forward="true" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volttron/Agents/mqttsubAgent/mqttsub/agent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="191" column="26" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -6965,8 +6440,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/volttron/hive_lib/broadlink/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#61#0" expanded="true" />
               </folding>
@@ -6977,8 +6452,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/volttron/Agents/01DAI_ACAgent/ac/agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="315">
+              <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
               <folding>
                 <element signature="e#24#62#0" expanded="true" />
               </folding>
@@ -6986,16 +6461,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/volttron/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="22" column="70" lean-forward="true" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>topic_netatmo</find>
+      <find>commsg</find>
+      <find>topic_appjoin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>topic_appjoin</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -7004,6 +6480,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/volttron/Agents/01DAI_ACAgent/ac/agent.py" />
+        <option value="$PROJECT_DIR$/volttron/DeviceAPI/classAPI/classAPI_FanG.py" />
+        <option value="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/agent.py" />
+        <option value="$PROJECT_DIR$/volttron/hive_lib/buildAgentsG1.sh" />
       </list>
     </option>
   </component>
@@ -7044,6 +6523,33 @@
               <item name="enerkey_os" type="462c0819:PsiDirectoryNode" />
               <item name="volttron" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="enerkey_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="enerkey_os" type="462c0819:PsiDirectoryNode" />
+              <item name="volttron" type="462c0819:PsiDirectoryNode" />
+              <item name="Agents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="enerkey_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="enerkey_os" type="462c0819:PsiDirectoryNode" />
+              <item name="volttron" type="462c0819:PsiDirectoryNode" />
+              <item name="Applications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="enerkey_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="enerkey_os" type="462c0819:PsiDirectoryNode" />
+              <item name="volttron" type="462c0819:PsiDirectoryNode" />
+              <item name="Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="enerkey_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="enerkey_os" type="462c0819:PsiDirectoryNode" />
+              <item name="volttron" type="462c0819:PsiDirectoryNode" />
+              <item name="Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="AITest1Agent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -7069,7 +6575,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mqtt">
+  <component name="RunManager" selected="Python.aicontrolagent">
+    <configuration name="aicontrolagent" type="PythonConfigurationType" factoryName="Python">
+      <module name="enerkey_os" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="AGENT_CONFIG" value="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1agent.launch.json" />
+        <env name="AGENT_VIP_IDENTITY" value="aicontrol" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/volttron/env/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/volttron/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../hive_os/volttron/scripts/pydev-launch.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/agent.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classAPI_FanG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="enerkey_os" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/volttron/DeviceAPI/classAPI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/volttron/DeviceAPI/classAPI/classAPI_FanG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fanagent" type="PythonConfigurationType" factoryName="Python">
       <module name="enerkey_os" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -7187,14 +6739,17 @@
     <list>
       <item itemvalue="Python.volttron" />
       <item itemvalue="Python.fanagent" />
+      <item itemvalue="Python.aicontrolagent" />
       <item itemvalue="Python.mqtt" />
       <item itemvalue="Python.server" />
       <item itemvalue="Python.settings" />
+      <item itemvalue="Python.classAPI_FanG" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.classAPI_FanG" />
         <item itemvalue="Python.server" />
+        <item itemvalue="Python.settings" />
       </list>
     </recent_temporary>
   </component>
@@ -7214,18 +6769,18 @@
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1377" height="912" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24905944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25282168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34061697" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34020618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -7244,17 +6799,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/volttron/env/local/lib/python2.7/site-packages/pkg_resources/__init__.py">
+    <entry file="file://$PROJECT_DIR$/volttron/env/local/lib/python2.7/site-packages/pkg_resources/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/volttron/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="2338" column="78" selection-start-line="2338" selection-start-column="78" selection-end-line="2338" selection-end-column="78" />
+        <state relative-caret-position="15">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volttron/Agents/mqttsubAgent/mqttsub/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="191" column="26" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/volttron/hive_lib/broadlink/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#61#0" expanded="true" />
           </folding>
@@ -7263,18 +6826,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/volttron/Agents/01DAI_ACAgent/ac/agent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="315">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
           <folding>
             <element signature="e#24#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/volttron/settings.py">
+    <entry file="file://$PROJECT_DIR$/volttron/hive_lib/broadlink/settings.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="70" lean-forward="true" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        <state relative-caret-position="320">
+          <caret line="43" column="4" selection-start-line="43" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volttron/DeviceAPI/classAPI/classAPI_FanG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="139" column="46" lean-forward="true" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volttron/Applications/code/AITest1Agent/aitest1/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <marker date="1536399502894" expanded="true" signature="5605:5640" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volttron/hive_lib/buildAgentsG1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
         </state>
       </provider>
     </entry>

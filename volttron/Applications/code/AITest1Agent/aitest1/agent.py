@@ -78,7 +78,8 @@ def aitest1_agent(config_path, **kwargs):
     netatmo_device_id = get_config('weather_device_id')
     print(netatmo_device_id)
     ac_device_id = get_config('ac_device_id')
-    topic_netatmo = '/agent/zmq/update/hive/999/' + netatmo_device_id
+    topic_appjoin = '/ui/agent/update/hive/999/' + 'appjoin'
+    print topic_appjoin
     topic_ac = '/ui/agent/update/hive/999/' + ac_device_id
 
     # DATABASES
@@ -123,29 +124,47 @@ def aitest1_agent(config_path, **kwargs):
             print("On Start")
             # self.build_automation_agent(55)
 
-        @PubSub.subscribe('pubsub', topic_netatmo)  # control AC temp
+        @Core.periodic(5)
+        def deviceMonitorBehavior(self):
+
+            print ""
+            # controlmsg = "'device': '03WSP1234567', 'username': 'temca', 'status': 'OFF', 'type': 'devicecontrol'"
+            # self.fanPublish(controlmsg)
+
+        @PubSub.subscribe('pubsub', topic_appjoin)  # control AC temp
         def match_topic_create(self, peer, sender, bus,  topic, headers, message):
-            print("----- Read Humidity + Air Temp from Netatmo -----")
+            print("----- subscribe join command from mobileapp-----")
+            print("----- subscribe join command from mobileapp-----")
+            print("----- subscribe join command from mobileapp-----")
+
             msg = json.loads(message)
             print(msg)
 
+            #control fan--------------------------------
+            controlmsg = "'device': '03WSP1234567', 'username': 'temca', 'status': 'OFF', 'type': 'devicecontrol'"
+            self.fanPublish(controlmsg)
+
+            controlmsg = "'device': '03WSP1234567', 'username': 'temca', 'status': 'OFF', 'type': 'devicecontrol'"
+            self.fanPublish(controlmsg)
+
+
             # humidity
-            print(msg['humidity'])
-            self.humidity = int(round(msg['humidity'],-1))
-            print("Humidity = {}".format(self.humidity))
+            # print(msg['humidity'])
+            # self.humidity = int(round(msg['humidity'],-1))
+            # print("Humidity = {}".format(self.humidity))
 
             # # air temp
             # print(msg['temperature'])
             # self.air_temp = int(round(msg['temperature']))
             # print("Air Temp = {}".format(self.air_temp))
 
-            try:
-                if (self.humidity > 0):
-                    self.ac_temp = str(self.CBE[self.humidity][self.CBE[self.humidity].keys()[-1]])
-                print("OK")
-
-            except Exception as e:
-                print('error = {}'.format(e))
+            # try:
+            #     if (self.humidity > 0):
+            #         self.ac_temp = str(self.CBE[self.humidity][self.CBE[self.humidity].keys()[-1]])
+            #     print("OK")
+            #
+            # except Exception as e:
+            #     print('error = {}'.format(e))
 
             # except:
             #     if self.air_temp < self.CBE[self.humidity][self.CBE[self.humidity].keys()[0]]:
@@ -158,6 +177,18 @@ def aitest1_agent(config_path, **kwargs):
             #         print('Error: Set Temp AC')
 
             print("AC Temp = {}".format(self.ac_temp))
+
+        def fanPublish(self, commsg):
+            # TODO this is example how to write an app to control AC
+            topic = str('/ui/agent/update/hive/999/03WSP1234567')
+            commsg = {'device': '03WSP1234567', 'username': 'temca', 'status': 'speeddown', 'type': 'devicecontrol'}
+            message = json.dumps(commsg)
+            print ("topic {}".format(topic))
+            print ("message {}".format(message))
+
+            self.vip.pubsub.publish(
+                'pubsub', topic,
+                {'Type': 'pub device status to ZMQ'}, message)
 
         @Core.periodic(heartbeat_period)
         def StatusPublish(self):
