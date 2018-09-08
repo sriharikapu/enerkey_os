@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/workspace/enerkey_os/volttron
 
 #accontrolapp1
 volttron-pkg package Applications/code/AITest1Agent
