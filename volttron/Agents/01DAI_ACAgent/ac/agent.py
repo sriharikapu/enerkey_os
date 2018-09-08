@@ -104,7 +104,7 @@ def ac_agent(config_path, **kwargs):
         def onsetup(self, sender, **kwargs):
             # Demonstrate accessing a value from the config file
             _log.info(self.config.get('message', DEFAULT_MESSAGE))
-            self.iotmodul = importlib.import_module("hive_lib.azure-iot-sdk-python.device.samples.iothub_client_sample")
+            #self.iotmodul = importlib.import_module("hive_lib.azure-iot-sdk-python.device.samples.iothub_client_sample")
 
         @Core.receiver('onstart')
         def onstart(self, sender, **kwargs):
@@ -132,8 +132,8 @@ def ac_agent(config_path, **kwargs):
                     self.AC.variables['set_humidity'] != self.status_old4 or
                     self.AC.variables['mode'] != self.status_old5):
                 self.publish_firebase()
-                self.publish_postgres()
-                self.publish_azure_iot_hub(activity_type='devicemonitor', username=agent_id)
+                #self.publish_postgres()
+                #self.publish_azure_iot_hub(activity_type='devicemonitor', username=agent_id)
             else:
                 pass
 
@@ -204,27 +204,6 @@ def ac_agent(config_path, **kwargs):
                     self.api_token =  row[1]
             self.conn.close()
 
-        def publish_azure_iot_hub(self, activity_type, username):
-            # TODO publish to Azure IoT Hub u
-            '''
-            here we need to use code from /home/kwarodom/workspace/hive_os/volttron/
-            hive_lib/azure-iot-sdk-python/device/samples/simulateddevices.py
-            def iothub_client_telemetry_sample_run():
-            '''
-            x = {}
-            x["device_id"] = str(self.AC.variables['agent_id'])
-            x["date_time"] = datetime.now().replace(microsecond=0).isoformat()
-            x["device_status"] = str(self.AC.variables['status'])
-            x["unixtime"] = int(time.time())
-            x["current_temperature"] = str(self.AC.variables['current_temperature'])
-            x["set_temperature"] = str(self.AC.variables['set_temperature'])
-            x["set_humidity"] = str(self.AC.variables['set_humidity'])
-            x["mode"] = str(self.AC.variables['mode'])
-            x["activity_type"] = activity_type
-            x["username"] = username
-            x["device_name"] = 'MY DAIKIN'
-            x["device_type"] = 'airconditioner'
-            discovered_address = self.iotmodul.iothub_client_sample_run(bytearray(str(x), 'utf8'))
 
         @PubSub.subscribe('pubsub', topic_device_control)
         def match_device_control(self, peer, sender, bus, topic, headers, message):

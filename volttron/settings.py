@@ -39,7 +39,7 @@ except:
         print "no eth0"
 
 # TODO change gateway_id
-gateway_id='hivecdf12345'
+gateway_id='hivedevhub7'
 print('sending data to gateway: {}'.format(gateway_id))
 
 PLATFORM = {

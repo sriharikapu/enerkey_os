@@ -119,10 +119,18 @@ volttron-ctl install ~/.volttron/packaged/powermeteragent-0.1-py2-none-any.whl -
 
 volttron-pkg package Agents/01DAI_ACAgent
 
-volttron-pkg configure ~/.volttron/packaged/acagent-0.1-py2-none-any.whl ~/workspace/hive_os/volttron/Agents/01DAI_ACAgent/01DAI1200101.config.json
+volttron-pkg configure ~/.volttron/packaged/acagent-0.1-py2-none-any.whl ~/workspace/enerkey_os/volttron/Agents/01DAI_ACAgent/01DAI1200101.config.json
 
 volttron-ctl install ~/.volttron/packaged/acagent-0.1-py2-none-any.whl --tag aircon
+enable --tag aircon
 
 
+#mqtt
+volttron-pkg package Agents/mqttsubAgent
+
+volttron-pkg configure ~/.volttron/packaged/mqttsubagent-0.1-py2-none-any.whl ~/workspace/enerkey_os/volttron/Agents/mqttsubAgent/mqttsub.config
+
+volttron-ctl install ~/.volttron/packaged/mqttsubagent-0.1-py2-none-any.whl --tag mqtt
+enable --tag mqtt
 
 echo "GGG!"
