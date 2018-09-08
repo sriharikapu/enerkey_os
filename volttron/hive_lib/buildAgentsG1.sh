@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#accontrolapp
+#accontrolapp1
 volttron-pkg package Applications/code/AITest1Agent
 volttron-pkg configure ~/.volttron/packaged/aitest1agent-3.2-py2-none-any.whl ~/workspace/enerkey_os/volttron/Applications/code/AITest1Agent/aitest1agent.launch.json
 volttron-ctl install ~/.volttron/packaged/aitest1agent-3.2-py2-none-any.whl --tag accontrol
