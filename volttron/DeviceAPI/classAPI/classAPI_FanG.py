@@ -138,6 +138,8 @@ class API:
                             command = 'fanoff'
                         if _data['status'] == 'off':
                             command = 'fanoff'
+                        if _data['status'] == 'speeddown':
+                            command = 'fanspeed'
                         self.status = _data['status']
 
             except Exception as er:
