@@ -1,0 +1,85 @@
+#temp files
+*~
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod~]
+*$py.class
+# C extensions
+*.so
+*.o
+*.obj
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+
+parts/
+sdist/
+var/
+
+#especial files
+.idea/
+log/*.*
+.temp/*.*
+bemoss_lib/protocols/BACnet/bacnet-stack-0.8.2/
+/running_agents.txt
+/machine_ip.txt
+/BEMOSS.pid
+volttron.log
+volttron.log.*
+*.volttron.log*
+*.orig
+
+
+bemoss/Applications/launch/
+Agents/MultiBuilding/multibuildingagent.launch.json
+Agents/LaunchFiles/*.launch.json
+cassandra.pid
+cassandra.txt
+cassandra_settings.txt
+
+!readme.txt*
+
+*.egg-info/
+.installed.cfg
+*.egg
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# Unit test / coverage reports
+htmlcov/
+
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+# Translations
+*.mo
+*.pot
+# Django stuff:
+*.log
+# Sphinx documentation
+docs/_build/
+# PyBuilder
+target/
+
+#Except
+!bemoss/custom-eggs/*
+.temp/readme.txt
+Agents/NetpieButtonAgent/netpiebutton/microgear-5xeHHg4vpGAYTzj.cache
+log/readme.txt
+Agents/ListenerAgent/listener/microgear-5xeHHg4vpGAYTzj.cache
+nohup.out
