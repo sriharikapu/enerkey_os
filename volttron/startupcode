@@ -1,0 +1,3 @@
+broadlink
+
+gnome-terminal --tab -t "MQTTServer" -e "bash -c 'cd ~/workspace/hive_os/volttron/hive_lib/broadlink; python server.py; bash'"

@@ -1,0 +1,20 @@
+# TODO : Change Environment for Deploy Volttron as a system Services
+# VOLTTRON SystemD unit
+# Exec Start exectues the volttron platform script built by bootstrap
+# This does not have to activate the virtualenv as the script will do that
+[Unit]
+Description=VOLTTRON Platform Service
+After=network.target
+
+[Service]
+Type=simple
+User=hive
+Group=hive
+WorkingDirectory=/home/hive/workspace/hive_os
+#Uncomment and change this to specify a different VOLTTRON_HOME
+Environment="VOLTTRON_HOME=/home/hive/.volttron"
+ExecStart=/home/hive/workspace/hive_os/volttron/env/bin/volttron -vv
+ExecStop=/home/hive/workspace/hive_os/volttron/env/bin/volttron-ctl shutdown --platform
+
+[Install]
+WantedBy=multi-user.target

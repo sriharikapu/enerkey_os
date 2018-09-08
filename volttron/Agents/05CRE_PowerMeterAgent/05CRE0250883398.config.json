@@ -1,0 +1,20 @@
+{
+    "agent": {
+        "exec": "lightingagent-0.1-py2.7.egg --config \"%c\" --sub \"%s\" --pub \"%p\""
+    }, 
+    "agent_id": "05CRE0250883398",
+    "ipaddress": "http://192.168.1.30:49153",
+    "message": "this is a lighting agent",
+    "heartbeat_period": 5,
+    "api": "classAPI_Creativepower",
+    "url": "https://cplservice.com/apixmobile.php/cpletrix?filter=device_id,eq,250883398&order=trans_id,desc&page=1",
+    "device_id": "250883398",
+    "building_name": "hive",
+    "device_type":"powermeter",
+    "device_monitor_time": 20,
+    "macaddress": "221445K1200138",
+    "model": "one",
+    "type": "05CRE",
+    "vendor": "phillip",
+    "zone_id": 999
+}

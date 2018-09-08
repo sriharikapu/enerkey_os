@@ -1,0 +1,69 @@
+2018-04-28 05:36:00,742 () volttron.platform.main DEBUG: open file resource limit increased from 1024 to 1048576
+2018-04-28 05:36:00,743 () volttron.platform.main DEBUG: open file resource limit 1024 to 1048576
+2018-04-28 05:36:00,743 () volttron.platform.main WARNING: insecure mode on directory: /home/kwarodom/.volttron
+2018-04-28 05:36:00,743 () volttron.platform.main DEBUG: using key-store file /home/kwarodom/.volttron/keystore
+2018-04-28 05:36:00,743 () volttron.platform.main INFO: public key: ZDuwNmW4P7ClnInFsgw8dgLYb40Z7ms3SS4o4nA1hGs
+2018-04-28 05:36:00,745 () volttron.platform.main DEBUG: protected topics file /home/kwarodom/.volttron/protected_topics.json
+2018-04-28 05:36:00,745 () volttron.platform.main DEBUG: external_address_file file /home/kwarodom/.volttron/external_address.json
+2018-04-28 05:36:00,745 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,746 () volttron.platform.vip.agent.core DEBUG: identity: config.store
+2018-04-28 05:36:00,746 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,746 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,750 () volttron.platform.store INFO: Initializing configuration store service.
+2018-04-28 05:36:00,750 () volttron.platform.store DEBUG: Configuration directory already exists.
+2018-04-28 05:36:00,751 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,751 () volttron.platform.vip.agent.core DEBUG: identity: platform.auth
+2018-04-28 05:36:00,752 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,752 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,753 () volttron.platform.auth INFO: loading auth file /home/kwarodom/.volttron/auth.json
+2018-04-28 05:36:00,753 () volttron.platform.auth INFO: auth file /home/kwarodom/.volttron/auth.json loaded
+2018-04-28 05:36:00,755 () volttron.platform.main DEBUG: MAIN: protected topics content {}
+2018-04-28 05:36:00,756 () volttron.platform.vip.router DEBUG: ROUTER SENDBUF: 0, 0
+2018-04-28 05:36:00,756 () volttron.platform.main DEBUG: ROUTER SOCK identity: 7d529890-5338-4a66-a71d-57dd0beed660
+2018-04-28 05:36:00,756 () volttron.platform.main DEBUG: In-process VIP router bound to inproc://vip
+2018-04-28 05:36:00,757 () volttron.platform.main DEBUG: Local VIP router bound to ipc://@/home/kwarodom/.volttron/run/vip.socket?secretkey=XXXXX&domain=vip&server=CURVE#7d529890-5338-4a66-a71d-57dd0beed660
+2018-04-28 05:36:00,757 () volttron.platform.vip.pubsubservice INFO: protected-topics loaded
+2018-04-28 05:36:00,757 () volttron.platform.vip.externalrpcservice DEBUG: ExternalRPCService
+2018-04-28 05:36:00,757 () volttron.platform.main DEBUG: ZMQ version: 4.1.5
+2018-04-28 05:36:00,760 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: config.store
+2018-04-28 05:36:00,760 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,763 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: platform.auth
+2018-04-28 05:36:00,764 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,771 () volttron.platform.vip.agent.subsystems.configstore DEBUG: Processing callbacks for affected files: {}
+2018-04-28 05:36:00,865 () volttron.platform.main DEBUG: protected topics file /home/kwarodom/.volttron/protected_topics.json
+2018-04-28 05:36:00,865 () volttron.platform.main DEBUG: external_address_file file /home/kwarodom/.volttron/external_address.json
+2018-04-28 05:36:00,867 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,867 () volttron.platform.vip.agent.core DEBUG: identity: control
+2018-04-28 05:36:00,867 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,867 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,869 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,870 () volttron.platform.vip.agent.core DEBUG: identity: pubsub.compat
+2018-04-28 05:36:00,870 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,870 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,871 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,871 () volttron.platform.vip.agent.core DEBUG: identity: master.web
+2018-04-28 05:36:00,871 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,872 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,878 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,878 () volttron.platform.vip.agent.core DEBUG: identity: keydiscovery
+2018-04-28 05:36:00,878 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,878 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,879 () volttron.platform.vip.agent.core DEBUG: address: inproc://vip
+2018-04-28 05:36:00,879 () volttron.platform.vip.agent.core DEBUG: identity: pubsub
+2018-04-28 05:36:00,879 () volttron.platform.vip.agent.core DEBUG: agent_uuid: None
+2018-04-28 05:36:00,879 () volttron.platform.vip.agent.core DEBUG: serverkey: None
+2018-04-28 05:36:00,891 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: pubsub.compat
+2018-04-28 05:36:00,891 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,893 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: control
+2018-04-28 05:36:00,893 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,902 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: master.web
+2018-04-28 05:36:00,902 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,905 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: keydiscovery
+2018-04-28 05:36:00,905 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,908 () volttron.platform.web INFO: Web server not started.
+2018-04-28 05:36:00,911 () volttron.platform.vip.agent.core INFO: Connected to platform: router: 7d529890-5338-4a66-a71d-57dd0beed660 version: 1.0 identity: pubsub
+2018-04-28 05:36:00,911 () volttron.platform.vip.agent.core DEBUG: Running onstart methods.
+2018-04-28 05:36:00,923 () volttron.platform.vip.agent.subsystems.configstore DEBUG: Processing callbacks for affected files: {}
+2018-04-28 05:36:09,404 () volttron.platform.auth INFO: authentication success: domain='vip', address='localhost:1000:1000:6473', mechanism='CURVE', credentials=['ZDuwNmW4P7ClnInFsgw8dgLYb40Z7ms3SS4o4nA1hGs'], user_id='platform'
+2018-04-28 05:36:11,620 () volttron.platform.auth INFO: authentication success: domain='vip', address='localhost:1000:1000:6485', mechanism='CURVE', credentials=['ZDuwNmW4P7ClnInFsgw8dgLYb40Z7ms3SS4o4nA1hGs'], user_id='platform'
+2018-04-28 05:36:17,012 () volttron.platform.main INFO: SIGINT received; shutting down platform

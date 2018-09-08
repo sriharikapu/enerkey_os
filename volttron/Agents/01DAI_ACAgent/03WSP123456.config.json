@@ -1,0 +1,15 @@
+{
+    "address": "http://192.168.1.30:49153",
+    "agent": {
+        "exec": "daikinagent-0.1-py2.7.egg --config \"%c\" --sub \"%s\" --pub \"%p\""
+    },
+    "agent_id": "03WSP123456",
+    "api": "classAPI_TVG",
+    "building_name": "hive",
+    "device_monitor_time": 20,
+    "macaddress": "1200138",
+    "model": "AC123",
+    "type": "AC",
+    "vendor": "Daikin",
+    "zone_id": 999
+}
