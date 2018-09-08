@@ -84,6 +84,8 @@ def mqttsub_agent(config_path, **kwargs):
 
             while True:
                 try:
+                    servicebus_topic = 'hivedevhub7'
+                    print servicebus_topic
 
                     msg = sbs.receive_subscription_message(servicebus_topic, 'client1', peek_lock=False)
                     print msg
