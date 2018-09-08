@@ -1,0 +1,21 @@
+{
+    "agent": {
+        "exec": "lightingagent-0.1-py2.7.egg --config \"%c\" --sub \"%s\" --pub \"%p\""
+    }, 
+    "agent_id": "02ORV0017886",
+    "ipaddress": "http://192.168.1.30:49153",
+    "message": "this is a lighting agent",
+    "heartbeat_period": 20,
+    "api": "classAPI_Smartthings_Inwall",
+    "url": "https://graph-na02-useast1.api.smartthings.com/api/smartapps/installations/38eaa7c9-ec33-4fe9-99be-93981f5432d8/switches/",
+    "device": "dc53a370-ed35-4228-9dc2-b0b022f28624",
+    "bearer": "Bearer 5f599c0a-190c-4235-9a65-fef4fce8eb39",
+    "building_name": "hive",
+    "device_monitor_time": 5,
+    "macaddress": "221445K1200138",
+    "model": "one",
+    "type": "02ORV",
+    "vendor": "phillip",
+    "zone_id": 999
+}
+

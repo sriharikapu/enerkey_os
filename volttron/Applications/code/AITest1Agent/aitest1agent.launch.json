@@ -1,0 +1,10 @@
+{
+    "agent": {
+        "exec": "aitest1agent-0.1-py2.7.egg --config \"%c\" --sub \"%s\" --pub \"%p\""
+    },
+    "agentid": "AITest1",
+    "message": "hello from AITest1 agent",
+    "heartbeat_period": 30,
+    "ac_device_id": "01DAI1200101",
+    "weather_device_id": "12NET123451231"
+}

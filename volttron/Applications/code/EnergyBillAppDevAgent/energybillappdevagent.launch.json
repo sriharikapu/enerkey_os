@@ -1,0 +1,11 @@
+{
+    "agent": {
+        "exec": "energybillappagent-0.1-py2.7.egg --config \"%c\" --sub \"%s\" --pub \"%p\""
+    },
+    "agent_id": "EnergyBillApp",
+    "grid_device_id": "5PMCP124930529",
+    "load_device_id": "5PMCP270121594",
+    "solar_device_id": "5PMCP270121595",
+    "gateway_id": 8,
+    "message": "hello my name is EnergyBillAppAgent"
+}
