@@ -144,10 +144,6 @@ def aitest1_agent(config_path, **kwargs):
             controlmsg = "'device': '03WSP1234567', 'username': 'temca', 'status': 'OFF', 'type': 'devicecontrol'"
             self.fanPublish(controlmsg)
 
-            controlmsg = "'device': '03WSP1234567', 'username': 'temca', 'status': 'OFF', 'type': 'devicecontrol'"
-            self.fanPublish(controlmsg)
-
-
             # humidity
             # print(msg['humidity'])
             # self.humidity = int(round(msg['humidity'],-1))
