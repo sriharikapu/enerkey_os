@@ -181,7 +181,7 @@ def aitest1_agent(config_path, **kwargs):
         def fanPublish(self, commsg):
             # TODO this is example how to write an app to control AC
             topic = str('/ui/agent/update/hive/999/03WSP1234567')
-            commsg = {'device': '03WSP1234567', 'username': 'temca', 'status': 'speeddown', 'type': 'devicecontrol'}
+            commsg = {'device': '03WSP1234567', 'username': 'temca', 'status': 'OFF', 'type': 'devicecontrol'}
             message = json.dumps(commsg)
             print ("topic {}".format(topic))
             print ("message {}".format(message))
